@@ -1,0 +1,47 @@
+body{
+    background: rgb(255, 255, 255);
+    background-image: white;
+}
+img{
+    width: 300px;
+    height: 150px;
+}
+div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 10%;    
+    background-color: rgb(41, 14, 14);
+    padding: 55px;
+}
+
+h1{
+    color: white;
+}
+label{
+    color: white;
+}
+a{
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+}
+input{
+    height: 25px;
+    width: 100%;
+    border-radius: 5%;
+}
+
+label{
+    font-size: 18px;
+}
+
+button{
+    height: 30px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 50px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    color: white;
+}
